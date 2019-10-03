@@ -19,6 +19,6 @@ Here are the most fundamental resources that you will need to learn Python, stat
 While Python is a programming language that you may already be familiar with, Jupyter notebook provides us for a sequential way of executing cells (containing python code), which is quite useful for Machine Learning since it is normally a repeatable process.
 
 **Further questions?**
-Join our [PreCourse Slack](https://join.slack.com/t/akademyai-precourse/shared_invite/enQtNzI3NzYxNzEwNDY3LTM0NzJmOGJmZDk3M2M0MTYxZTM1MGEzOWEyNzQxMjYxYzAyMzIxOGU4YWM5MDFiNTg2ODZjYzU2MmY1MThlMDg)
+Send us an email at hello@akademy.ai
 
 Best of luck!
