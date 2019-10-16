@@ -23,4 +23,4 @@ Send us an email at hello@akademy.ai
 
 Best of luck!
 
-AkademyAI
+AkademyAI Team
