@@ -22,3 +22,5 @@ While Python is a programming language that you may already be familiar with, Ju
 Send us an email at hello@akademy.ai
 
 Best of luck!
+
+AkademyAI
